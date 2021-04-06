@@ -1,4 +1,4 @@
-module github.com/bakhtiyour/stats
+module github.com/bakhtiyour/stats/v1
 
 go 1.16
 
